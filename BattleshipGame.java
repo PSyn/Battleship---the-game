@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 /**
  * Battleship Game
- * @author Philip Kyd & Kevin Muriuki
+ 
  *
  */
 public class BattleshipGame {
