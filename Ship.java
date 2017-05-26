@@ -3,7 +3,7 @@ package battleship;
 /**
  * abstract class template for ships that will be used by sublcasses
  * 
- * @author philkyd
+ * @author phil
  * 
  */
 public abstract class Ship {
