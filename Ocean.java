@@ -3,7 +3,7 @@ package battleship;
 import java.util.Random;
 /**
  * Ocean class where all ships will be placed
- * @author philkyd
+ * @author phil
  *
  */
 public class Ocean {
